@@ -1,2 +1,3 @@
-# Password_generator_executable
+# Password_generator
+Double click main.exe and ENJOY!
  
